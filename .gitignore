@@ -1,0 +1,26 @@
+# Herramientas locales / IDE
+.claude/
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secretos y variables de entorno
+.env
+.env.*
+*.pem
+*.key
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Dependencias (por si en el futuro se agrega código)
+node_modules/
+__pycache__/
+*.pyc
