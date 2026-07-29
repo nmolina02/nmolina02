@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=Nicol%C3%A1s%20Ariel%20Molina&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20de%20la%20Informaci%C3%B3n%20%7C%20UTN%20FRBA&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7C99,100:8FA88F&height=220&section=header&text=Nicol%C3%A1s%20Ariel%20Molina&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20de%20la%20Informaci%C3%B3n%20%7C%20UTN%20FRBA&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-ariel-molina-1a38a32bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/nmolina02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=nmolina02&label=Visitas%20al%20perfil&color=11998e&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nmolina02&label=Visitas%20al%20perfil&color=5B7C99&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -121,12 +121,12 @@ Simulación de un lazo de control cerrado que regula la velocidad de ventiladore
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nmolina02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nmolina02&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=nmolina02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmolina02&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" height="165"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nmolina02&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmolina02&layout=compact&theme=catppuccin_latte&hide_border=true" height="165"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmolina02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nmolina02&layout=compact&theme=catppuccin_latte&hide_border=true" height="165"/>
 </picture>
 
 <picture>
@@ -157,5 +157,5 @@ Simulación de un lazo de control cerrado que regula la velocidad de ventiladore
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7C99,100:8FA88F&height=120&section=footer" width="100%"/>
 </div>
